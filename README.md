@@ -5,8 +5,8 @@ with ease. I believe that a person should work
 on developing their professional skills and
 learning new things all the time,
 I like AI and metaverse and absolutely __I LOVE
-PYTHON__ and __DJANGO__,  *Finally*  
-I am a web developer
+PYTHON__ and __DJANGO__,  Finally
+*I am a web developer*
 
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_milad_gharibi_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/milad-gharibi-689192228) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14933454) 
