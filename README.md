@@ -4,8 +4,8 @@ I get across people and adjust to changes
 with ease. I believe that a person should work
 on developing their professional skills and
 learning new things all the time,
-I like AI and metaverse and absolutely I LOVE
-PYTHON and DJANGO,  *Finally*  
+I like AI and metaverse and absolutely __I LOVE
+PYTHON__ and __DJANGO__,  *Finally*  
 I am a web developer
 
 ## 🌐Socials
